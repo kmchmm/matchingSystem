@@ -1,0 +1,17 @@
+.nav-logo{
+    font-size: 2rem;
+    font-weight: 700;
+    margin: .5em 0 .5em .5em;
+    color: #780000;
+}
+.register-button, .login-button{
+    padding: 10px 20px;
+    border-radius: 3px;
+}
+.register-button{
+    background-color: #780000;
+    color: #ffffff;
+}
+.login-button{
+    border: 1px solid #780000;
+}
